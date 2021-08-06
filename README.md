@@ -1,3 +1,14 @@
+[ COVID19 - Tracking System ]
+
+This is a react app built for tracking the covid-19 cases all around the world.
+
+1. This shows stats based on graph, scrolled list, 2D visuals in Map.
+2. User can view Today's [current day] active cases, recoveries, deaths.
+3. The data is been fetched from an API.
+4. Statistics can be viewed based on user's input from select list country-wise or Worldwide.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
