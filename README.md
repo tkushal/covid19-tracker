@@ -13,4 +13,5 @@ React App built for tracking the covid-19 cases all around the world.
 For reference: You can view my work on [COVID 19 Tracker System](https://covid-19-tracker-e4fb2.web.app/)
 
 
+![image](https://user-images.githubusercontent.com/40695609/140491550-02c6f992-358f-47b2-a23f-2dee00958f1f.png)
 
